@@ -29,7 +29,7 @@ public class Solution {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-        int t = sol.nthUglyNumber(10);
+        int t = sol.nthUglyNumber(11);
         System.out.println(t);
     }
 
